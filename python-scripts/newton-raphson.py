@@ -22,9 +22,9 @@ def newton(guess, acc):
 
     err = []                        # to store errors
     x = guess
-    made_accuracy = 0           # program has not achieved proper accuracy yet
+    made_accuracy = 0               # program has not achieved proper accuracy yet
 
-    while made_accuracy == 0:    # if desired accuracy not reached yet
+    while made_accuracy == 0:       # if desired accuracy not reached yet
 
         x_1 = x - (function(x) / function_prime(x))
 
