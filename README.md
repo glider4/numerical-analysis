@@ -5,6 +5,6 @@
  Using SymPy, a wide range of functions could be put into the convergence script and tested to see which scheme
  would produce faster results: Bisection or Newton-Raphson.
  
-![results](https://github.com/mathemacode/numerical-analysis/blob/master/sympy-integration/converge_test_results.PNG?raw=true)
+![results](https://github.com/mathemacode/numerical-analysis/blob/master/sympy-integration/pics_plots/converge_test_results.png?raw=true)
 
-![plot](https://github.com/mathemacode/numerical-analysis/blob/master/sympy-integration/function_plot.png?raw=true)
+![plot](https://github.com/mathemacode/numerical-analysis/blob/master/sympy-integration/pics_plots/function_plot.png?raw=true)
