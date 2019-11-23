@@ -6,6 +6,7 @@
 #   and 0.
 
 from sympy import Function, Symbol
+from sympy.plotting import plot
 from bisection import bisection
 from newton_raphson import newton
 
@@ -29,6 +30,7 @@ def main():
 
     print("\n=====================================")
 
+    plot(f)
 
 if __name__ == '__main__':
     main()
